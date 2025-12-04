@@ -1,4 +1,4 @@
-![Banner](Assets/Github.png "Banner")
+![NameBanner](Assets/Github.png "Banner")
 I build immersive video Games and RL Agents in purpose of finding the truth about this world.
 reach me out at `yonatanab1@gmail.com`.
 
