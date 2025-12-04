@@ -4,4 +4,4 @@ reach me out at `yonatanab1@gmail.com`.
 
 I wrote projects in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,blender,c,cs,cpp,clion,cmake,discord,docker,dotnet,fastapi,flask,git,github,gmail,instagram,linux,lua,md,mint,mongodb,mysql,nodejs,notion,npm,obsidian,postgres,postman,powershell,pycharm,py,pytorch,qt,rabbitmq,regex,rider,robloxstudio,sqlite,sketchup,tensorflow,ts,twitter,unity,unreal,vim,vercel,vite,vscode,vscodium,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,windows,linux,github,mint,gmail,git,docker,obsidian,notion,vscodium,vscode,rider,clion,pycharm,twitter,unity,robloxstudio,unreal,dotnet,cs,c,cpp,cmake,lua,py,html,css,js,ts,bash,powershell,blender,flask,fastapi,postman,md,regex,nodejs,npm,postgres,pytorch,qt,tensorflow,rabbitmq,mongodb,sqlite,mysql,sketchup,vercel,vim,vite)](https://skillicons.dev)
