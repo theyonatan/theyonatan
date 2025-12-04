@@ -1,6 +1,6 @@
 ![Banner](Assets/GithubBanner.png "Banner")
 
-![BannerDescription](Assets/GithubBanner2 "BannerDescription")
+![BannerDescription](Assets/GithubBanner2.png "BannerDescription")
 
 I wrote projects in:
 
