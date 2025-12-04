@@ -1,6 +1,6 @@
 ![Banner](Assets/GithubBanner.png "Banner")
 
-## I build immersive video Games and RL Agents
+**I build immersive video Games and RL Agents**
 in purpose of discovering the truth about this world.
 
 
